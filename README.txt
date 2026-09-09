@@ -1,4 +1,4 @@
-My webpage! Designed by someone much more talented than me. (See credits below)
+My webpage! Designed by someone much better at html than me. (See credits below)
 
 
 Read Only by HTML5 UP
